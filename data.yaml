@@ -1,0 +1,7 @@
+path: C:\Users\Admin\datasets\Pantech.AI_Projects\weed_detection\split_data
+train: train/images
+test: test/images
+val: val/images
+
+nc: 2
+names: ['weed','crop']
